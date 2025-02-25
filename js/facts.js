@@ -137,12 +137,7 @@ SharkGame.FunFacts = {
             "The top 10 largest animal species are all whales.",
             "While some whales are active hunters, others are merely supersized filter feeders. This game's whales are of unspecified type.",
             "Most whales are very social creatures. Most whales travel in small groups called pods, which might make up clans, and then communities. (some, however, are solitary)",
-            "It is not completely understood why whales sing, but scientists agree it serves some kind of social purpose.",
-            "Possibly try checking out the sprite sheet?",
-            "The top 10 largest animal species are all whales.",
-            "While some whales are active hunters, others are merely supersized filter feeders. This game's whales are of unspecified type.",
-            "Most whales are very social creatures. Most whales travel in small groups called pods, which might make up clans, and then communities. (some, however, are solitary)",
-            "It is not completely understood why whales sing, but scientists agree it serves some kind of social purpose.",/* Whales are observed to react to each other's songs and come to */,
+            "It is not completely understood why whales sing, but scientists agree it serves some kind of social purpose." /* Whales are observed to react to each other's songs and come to */,
         ],
         urchin: [
             "Sea urchins primarily eat kelp. A lot of kelp.",
@@ -282,6 +277,6 @@ SharkGame.FunFacts = {
         "Any timewalls in this game can be completely bypassed with good strategy.",
         "This game has keybinds. They are more useful than you might think. Check the options menu.",
         "Shark Game: New Frontiers is a mod of Cirrial's Untitled Shark Game. It started as a refurbishment, but quickly evolved into a total remake.",
-        "There is currently an little ARG inside of this game... Find it if you can.",
+        "Perhaps to solve this ARG you need something more... Radical."
     ],
 };
