@@ -138,7 +138,7 @@ SharkGame.FunFacts = {
             "While some whales are active hunters, others are merely supersized filter feeders. This game's whales are of unspecified type.",
             "Most whales are very social creatures. Most whales travel in small groups called pods, which might make up clans, and then communities. (some, however, are solitary)",
             "It is not completely understood why whales sing, but scientists agree it serves some kind of social purpose.",
-            "The whales talk about key binds, I wonder what that means."/* Whales are observed to react to each other's songs and come to */,
+            "A whale talks about code and key binds. He must be crazy"/* Whales are observed to react to each other's songs and come to */,
         ],
         urchin: [
             "Sea urchins primarily eat kelp. A lot of kelp.",
