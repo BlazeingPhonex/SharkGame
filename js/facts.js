@@ -72,6 +72,7 @@ SharkGame.FunFacts = {
                 "Hydrothermal vents do not spew fire in real life. They spew smoke.",
                 "Hydrothermal vents support a diverse array of sea life due to their high output of minerals. Bacteria eat these minerals, forming the base of a food chain.",
                 "Hydrothermal vents are found at fault lines in the earth's crust, where water becomes superheated due to magma rising close to the ocean floor.",
+                "test raghhhh",
             ],
             areRequirementsMet() {
                 return SharkGame.Upgrades.purchased.includes("thermalVents");
