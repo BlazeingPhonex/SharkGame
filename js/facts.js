@@ -11,10 +11,10 @@ SharkGame.FunFacts = {
     },
 
     getPool() {
-        const pool = [];
+        const pool = []; &&
         const currentWorld = world.worldType;
         if (
-            this.worldBased[currentWorld] &&
+            this.worldBased[currentWorld] 
             (!this.worldBased[currentWorld].areRequirementsMet || this.worldBased[currentWorld].areRequirementsMet())
         ) {
             _.each(this.worldBased[currentWorld].messages, (fact) => {
